@@ -1,2 +1,1 @@
-# dynamicResponse
-Total response of a damped dynamic system
+#Total Dynamic response of a damped system
